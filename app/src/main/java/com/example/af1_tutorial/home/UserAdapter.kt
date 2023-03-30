@@ -35,6 +35,5 @@ class UserAdapter: RecyclerView.Adapter<UserItemView>() {
     interface OnItemClickCallback {
         fun onItemClicked(data: User)
     }
-
-
+    
 }

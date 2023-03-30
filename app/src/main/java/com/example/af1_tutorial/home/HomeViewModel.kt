@@ -6,7 +6,6 @@ import androidx.lifecycle.ViewModel
 import com.example.af1_tutorial.data.model.User
 import com.example.af1_tutorial.data.remote.response.GetUserResponse
 import com.example.af1_tutorial.data.remote.service.ApiConfig
-import com.example.af1_tutorial.tools.Event
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
